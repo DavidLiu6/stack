@@ -191,3 +191,8 @@ If you use Stack in your research, please cite the Stack [paper](https://www.bio
 Stack code is [licensed](LICENSE) under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0).
 
 The model weights and output are licensed under the [Arc Research Institute Stack Model Non-Commercial License](MODEL_LICENSE.md) and subject to the [Arc Research Institute Stack Model Acceptable Use Policy](MODEL_ACCEPTABLE_USE_POLICY.md).
+
+## Local Setup Notes
+
+Verified the project setup using Python 3.10 and a virtual environment.
+Successfully installed and tested the required Python packages.
